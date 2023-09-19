@@ -14,3 +14,5 @@ Familias y padres ocupados: Padres que buscan opciones de comida rápida y delic
 Estudiantes: Estudiantes universitarios y de secundaria que aprecian opciones de comida asequibles y sabrosas. La capacidad de ordenar en línea es esencial para su estilo de vida digital.
 
 Viajeros y turistas: Visitantes que desean probar la comida local en la comodidad de su alojamiento. Ofrecer entregas a hoteles y alojamientos cercanos puede ser atractivo para este público.
+
+AGUANTE BOCA
