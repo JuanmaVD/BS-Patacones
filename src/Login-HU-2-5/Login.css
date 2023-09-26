@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./Imagen_Login.jpg'); /* Ruta de la imagen */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
+  }
+
+  .contenedor-login {
+    display: flex;
+    background-color: white;
+    height: 100vh;
+    width: 55vw;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .contenedor-login-login {
+    margin-top: 10%;
+  }
+
+  .iniciarsesion {
+   padding: 20px;
+  }
+
+  .inputLogin {
+    margin: 10px;
+    padding: 10px;
+    width: 90%;
+    border-radius: 10px;
+    border-color: solid white ;
+  }
