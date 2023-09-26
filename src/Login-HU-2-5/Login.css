@@ -27,9 +27,57 @@ body {
   }
 
   .inputLogin {
-    margin: 10px;
-    padding: 10px;
-    width: 90%;
-    border-radius: 10px;
-    border-color: solid white ;
+    background-color: rgba(176, 186, 195, 0.4);
+    height: 2rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    border-color: rgba(176, 186, 195, 0.4);
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
   }
+
+  .botonConfirmar {
+    border: 2px solid rgba(249, 237, 50, 1);
+    background-color: rgba(249, 237, 50, 1);
+    border-radius: 0.9em;
+    padding: 0.8em 1.2em 0.8em 1em;
+    transition: all ease-in-out 0.2s;
+    font-size: 16px;
+  }
+
+  .botonConfirmar:hover {
+    background-color: rgb(188, 178, 36);
+}
+
+.Google {
+  max-width: 320px;
+  display: flex;
+  padding: 0.5rem 1.4rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  vertical-align: middle;
+  align-items: center;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  gap: 0.75rem;
+  color: rgb(65, 63, 63);
+  background-color: #fff;
+  cursor: pointer;
+  transition: all .6s ease;
+}
+
+.Google svg {
+  height: 24px;
+}
+
+.Google:hover {
+  transform: scale(1.02);
+}
+
+.formulario {
+  
+
+}
